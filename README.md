@@ -28,7 +28,7 @@ git status
 
 ### Agregar archivos para control de versiones
 
-git add .git
+git add nombredearchivo 
 
 
 ### Guardar version de los archivos controlados
@@ -37,6 +37,5 @@ git commit -am "Mensaje de commit"
 
 
 holuuuu 2
-
 
 
