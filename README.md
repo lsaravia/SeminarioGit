@@ -35,5 +35,7 @@ git add nombredearchivo
 
 git commit -am "Mensaje de commit"
 
+### Traer cambios de github
 
+git pull
 
