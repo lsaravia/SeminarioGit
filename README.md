@@ -39,3 +39,7 @@ git commit -am "Mensaje de commit"
 
 git pull
 
+### Subir cambios al github
+
+git push
+
