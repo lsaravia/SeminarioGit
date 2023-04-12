@@ -2,6 +2,38 @@
 
 Ejemplo de Rstudio workflow 
 
-* Como commitear
+## Comandos de git
 
-holus
+### Configurar git
+
+git config --global user.name 'Nombre Usuario'
+
+git config --global user.email 'nombre@example.com'
+
+git config --global --list
+
+### Clonar un repositorio
+
+git clone https://github.com/lsaravia/SeminarioGit.git
+
+
+### iniciar un repositorio nuevo
+
+git init
+
+### Ver status del repositorio
+
+git status
+
+
+### Agregar archivos para control de versiones
+
+git add .git
+
+
+### Guardar version de los archivos controlados
+
+git commit -am "Mensaje de commit"
+
+
+
