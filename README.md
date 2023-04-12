@@ -36,6 +36,4 @@ git add nombredearchivo
 git commit -am "Mensaje de commit"
 
 
-holuuuu 2
-
 
