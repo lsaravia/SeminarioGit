@@ -12,6 +12,11 @@ git config --global user.email 'nombre@example.com'
 
 git config --global --list
 
+
+### Configurar editor por defecto
+
+git config --global core.editor "subl"
+
 ### Clonar un repositorio
 
 git clone https://github.com/lsaravia/SeminarioGit.git
@@ -42,4 +47,6 @@ git pull
 ### Subir cambios al github
 
 git push
+
+
 
