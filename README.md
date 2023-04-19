@@ -63,7 +63,7 @@ git push -u origin main
 
 git checkout -b nueva-rama
 
-### Pushear la rama al remoto 
+### Pushear la rama al remoto (hacer a mano en RStudio)
 
 git push origin nueva-rama
 
@@ -75,3 +75,13 @@ git push origin nueva-rama
 
 Create a pull request for 'leoNuevo' on GitHub by visiting:
 https://github.com/lsaravia/SeminarioGit/pull/new/leoNuevo
+
+Luego del pull-request en el remoto (github) cambiar a la rama main
+
+`git checkout main`
+
+y hacer un pull
+
+`git pull`
+
+
