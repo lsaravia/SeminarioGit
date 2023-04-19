@@ -67,6 +67,10 @@ git checkout -b nueva-rama
 
 git push origin nueva-rama
 
+### Luego hacer commits locales y para actualizar el remoto
+
+git push origin nueva-rama
+
 ### Para hacer pull request en github
 
 Create a pull request for 'leoNuevo' on GitHub by visiting:
