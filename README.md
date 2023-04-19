@@ -38,6 +38,8 @@ git add nombredearchivo
 
 ### Guardar version de los archivos controlados
 
+Si el archivo ya esta agregado, se puede hacer un commit sin volver a agregarlo
+
 git commit -am "Mensaje de commit"
 
 ### Traer cambios de github
@@ -56,3 +58,6 @@ para pushear un repositorio existente desde la consola (terminal) de R poner
 git remote add origin ... (ver en GitHub la dirección)
 git branch -M main
 git push -u origin main
+
+
+### 
