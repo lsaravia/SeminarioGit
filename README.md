@@ -85,3 +85,23 @@ y hacer un pull
 `git pull`
 
 
+### Que pasa cuando hacemos push en un repositorio y tiene cambios
+
+git push
+
+To github.com:EcoComplex/SoilBodySizeSpectra.git
+ ! [rejected]        main -> main (fetch first)
+
+error: failed to push some refs to 'github.com:EcoComplex/SoilBodySizeSpectra.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+luego hay que hacer un 
+
+`git pull` 
+
+y ver si hay que resolver conflictos.
+
