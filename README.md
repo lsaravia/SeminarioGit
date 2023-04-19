@@ -59,3 +59,7 @@ git remote add origin ... (ver en GitHub la dirección)
 git branch -M main
 git push -u origin main
 
+### Para crear una nueva rama 
+
+git checkout -b nueva-rama
+
