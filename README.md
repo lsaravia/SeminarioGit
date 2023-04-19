@@ -49,4 +49,10 @@ git pull
 git push
 
 
+### Enlazar repositorio local con remoto
 
+para pushear un repositorio existente desde la consola (terminal) de R poner
+
+git remote add origin ... (ver en GitHub la dirección)
+git branch -M main
+git push -u origin main
