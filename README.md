@@ -63,3 +63,11 @@ git push -u origin main
 
 git checkout -b nueva-rama
 
+### Pushear la rama al remoto 
+
+git push origin nueva-rama
+
+### Para hacer pull request en github
+
+Create a pull request for 'leoNuevo' on GitHub by visiting:
+https://github.com/lsaravia/SeminarioGit/pull/new/leoNuevo
